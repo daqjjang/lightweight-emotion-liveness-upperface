@@ -32,9 +32,9 @@ This repository will be updated with implementation details, model checkpoints, 
 
 The experiments in the paper use the following publicly available datasets:
 
-- MEAD
-- BEAT
-- RAVDESS
+- **MEAD**: https://github.com/uniBruce/Mead
+- **BEAT**: https://pantomatrix.github.io/BEAT-Dataset/
+- **RAVDESS**: https://zenodo.org/records/1188976
 
 Please refer to the original dataset sources for access and licensing information.
 
