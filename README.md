@@ -1,6 +1,3 @@
-# lightweight-emotion-liveness-upperface
-Lightweight speech-conditioned upper-face animation via emotion–liveness composition for virtual agents.
-
 # Lightweight Speech-Conditioned Upper-Face Animation for Virtual Agents via Emotion–Liveness Composition
 
 Official repository for the paper:
